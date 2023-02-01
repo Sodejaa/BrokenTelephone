@@ -3,5 +3,5 @@
 
 ## Hajautetut ohjelmistojärjestelmät harjoitustyö "rikkinäinen puhelin"
 
-[Tehtävänanto suomeksi](assignments/Tehtavananto.md)
+Distributed systems course project
 
